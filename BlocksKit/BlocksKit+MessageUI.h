@@ -1,5 +1,5 @@
 //
-//  BlocksKit MessageUI Extensions
+//  BlocksKit+MessageUI
 //
 //  The Objective-C block utilities you always wish you had.
 //
@@ -24,8 +24,6 @@
 //  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 //  THE SOFTWARE.
 //
-
-#import <BlocksKit/BlocksKit.h>
 
 #import <BlocksKit/MFMailComposeViewController+BlocksKit.h>
 #import <BlocksKit/MFMessageComposeViewController+BlocksKit.h>
